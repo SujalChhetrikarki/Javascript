@@ -13,3 +13,6 @@ let z = "sujal";
 console.log(typeof z);
 let q=1;
 typeof q;
+
+typeof "sujal";
+typeof function(){};
