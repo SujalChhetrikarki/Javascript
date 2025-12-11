@@ -11,3 +11,5 @@ console.log(s);
 
 let z = "sujal";
 console.log(typeof z);
+let q=1;
+typeof q;
